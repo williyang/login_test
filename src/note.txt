@@ -20,6 +20,7 @@
 	---------------
 
 	root project path
+	npm i build
 	docker network create "my-network"
 	docker-compose down
 	docker-compose build -- no-cache
