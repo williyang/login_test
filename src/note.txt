@@ -16,3 +16,11 @@
 	<p id="h">hello</p>
 	document.getElementById('h');
 	.style.backgroundColor="red";
+
+	---------------
+
+	root project path
+	docker network create "my-network"
+	docker-compose down
+	docker-compose build -- no-cache
+	docker-compose up -d
