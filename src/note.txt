@@ -1,0 +1,18 @@
+	1) change style color and font size
+	<body>
+		<h1>big title</h1>
+		<h2>p title</h2>
+		<h3>little title</h3>
+	</body>
+		
+	<style>
+		color: yellow;
+		font-size: 30
+	<style>
+	 	
+	---------------
+	
+	2)javascript change style
+	<p id="h">hello</p>
+	document.getElementById('h');
+	.style.backgroundColor="red";
